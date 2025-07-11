@@ -26,10 +26,10 @@ Feed Screen
 ![Feed](screenshots/feed3.png)
 
 Add Post Screen
-![Add Post](screenshot/feed1.png)
+![Feed](screenshot/feed1.png)
 
 Like Posts
-![Like](screenshot/feed.png)
+![Feed](screenshot/feed.png)
 
 
 ---
